@@ -1,0 +1,11 @@
+__pycache__/
+*.mp4
+*.mov
+*.mp3
+*.m4a
+*.srt
+*.png
+voice.mp3
+looped_background.mp4
+output.mp4
+outputs/
